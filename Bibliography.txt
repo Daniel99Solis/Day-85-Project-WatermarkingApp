@@ -1,0 +1,41 @@
+Function "drag"
+# https://www.plus2net.com/python/tkinter-events-dnd.php
+
+How to use a OptionMenu Widget tkinter
+# https://www.geeksforgeeks.org/dropdown-menus-tkinter/
+# https://stackoverflow.com/questions/26744366/adding-command-to-a-tkinter-optionmenu
+
+How to use tkinter messages
+# https://stackoverflow.com/questions/28782974/python-tkmessagebox-askyesnocancel-3-options-boolean-output
+
+How to create a Frame and add beautiful layout to its inside widgets, its similar to a canvas
+# https://copyprogramming.com/howto/tkinter-align-button-within-frame-with-grid
+# https://stackoverflow.com/questions/16639125/how-do-i-change-the-background-of-a-frame-in-tkinter
+
+How to use Style objects to add style to widgets
+# https://www.pythontutorial.net/tkinter/ttk-style/
+
+# File open dialogs in Tkinter, like save in a folder or select a file
+https://www.pythontutorial.net/tkinter/tkinter-open-file-dialog/
+
+# How to add images inside Labels with tkinter
+https://www.activestate.com/resources/quick-reads/how-to-add-images-in-tkinter/
+
+# Pillow library, how to use the Image class
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html#using-the-image-class
+
+# Working with images with Pillow library
+https://www.geeksforgeeks.org/working-images-python/
+
+# How to create a canvas to drag elements inside it
+https://www.plus2net.com/python/tkinter-events-dnd.php
+
+# How to create tkinter messages windows, like warnings or (yes,no,cancel)
+https://stackoverflow.com/questions/28782974/python-tkmessagebox-askyesnocancel-3-options-boolean-output
+
+# How to paste an image without background over other image
+https://stackoverflow.com/questions/5324647/how-to-merge-a-transparent-png-image-with-another-image-using-pil
+https://stackoverflow.com/questions/31273592/valueerror-bad-transparency-mask-when-pasting-one-image-onto-another-with-pyt
+
+# How to open files from the user's directories
+https://stackoverflow.com/questions/47812372/python-how-to-open-a-folder-on-windows-explorerpython-3-6-2-windows-10
